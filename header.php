@@ -1,7 +1,7 @@
 <?php
 
 /* 
- * Created by Maksim Kostenko 07.11.2016
+ * Created by Maksim Kostenko  07.11.2016
  */
 
 session_start();
